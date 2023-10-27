@@ -10,9 +10,11 @@ function App() {
           Edit src/App.js and save to reload.
         </p>
         <div className="test">
-          <p>Test</p>
-          <p>Test</p>
-          <p>Test</p>
+          <div className="test2">
+            <p>Test</p>
+            <p>Test</p>
+            <p>Test</p>
+          </div>
         </div>
         <a
           className="App-link"
